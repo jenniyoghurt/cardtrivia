@@ -1,5 +1,5 @@
 var cards = [
-    {name: 'rinko', url: 'https://i.bandori.party/u/c/a/910Rinko-Shirokane-Pure-%E4%BB%AE%E5%85%A5%E9%83%A8%E5%93%A1-cAh9od.png'},
+    {name: 'rinko', url: 'https://i.bandori.party/u/c/a/910Rinko-Shirokane-Pure-%E4%BB%AE%E5%85%A5%E9%83%A8%E5%93%A1-cAh9od.png', date: 'march 30, 2018'},
     {name: 'rimi', url: 'https://i.bandori.party/u/c/a/926Rimi-Ushigome-Happy-wyzCPC.png'},
     {name: 'moca', url: 'https://i.bandori.party/u/c/a/932Moca-Aoba-Pure-8SvSKG.png'},
     {name: 'tsugumi', url: 'https://i.bandori.party/u/c/a/933Tsugumi-Hazawa-Pure-YkRXVf.png'},
@@ -48,6 +48,9 @@ function test() {
     for(var i = 0; (i < cards.length) && (j < 25); i++){
         if(lastOfGirl(i+1, cards[i].name)){
             result = result.concat('<img src="').concat(cards[i].url).concat('">');
+            if(j==0){
+                result = result.concat('<p>released ').concat(cards[i].date).concat('</p>');
+            }
             j++;
         }
         

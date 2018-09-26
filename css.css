@@ -22,7 +22,11 @@ h1, h2{
     width: 100px;
 }
 
-#leastRecent4 img:first-of-type{
+#leastRecent4 img:first-child{
     display: block;
     width: 150px;
+}
+
+#leastRecent4 p {
+    margin: 0 0 21px 13px;
 }
