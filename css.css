@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: dimgray;
+    -webkit-text-size-adjust: none;
+    max-height: 100000px;
+}
+
+#content{
+    display: block;
+    margin: 0 auto;
+    max-width: 882px;
+}
+
+h1, h2{
+    margin: 13px;
+}
+
+#leastRecent4 img{
+    margin: 21px 13px;
+    width: 100px;
+}
+
+#leastRecent4 img:first-of-type{
+    display: block;
+    width: 150px;
+}
