@@ -10,7 +10,7 @@
 #content{
     display: block;
     margin: 0 auto;
-    max-width: 882px;
+    max-width: 876px;
 }
 
 h1, h2{
@@ -19,12 +19,12 @@ h1, h2{
 
 #leastRecent4 img{
     margin: 21px 13px;
-    width: 100px;
+    width: 120px;
 }
 
 #leastRecent4 img:first-child{
     display: block;
-    width: 150px;
+    width: 200px;
 }
 
 #leastRecent4 p {
