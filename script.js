@@ -4,15 +4,15 @@ var cards = [
     {name: 'moca', url: 'https://i.bandori.party/u/c/a/932Moca-Aoba-Pure-8SvSKG.png'},
     {name: 'tsugumi', url: 'https://i.bandori.party/u/c/a/933Tsugumi-Hazawa-Pure-YkRXVf.png'},
     {name: 'yukina', url: 'https://i.bandori.party/u/c/a/937Yukina-Minato-Happy-2n36e3.png'},
-    {name: 'lisa', url: 'https://i.bandori.party/u/c/a/938Lisa-Imai-Happy-CwNdSi.png'},
-    {name: 'kokoro', url: 'https://i.bandori.party/u/c/a/942Kokoro-Tsurumaki-Cool-2DKfGH.png'},
+    {name: 'lisa', url: 'https://i.bandori.party/u/c/a/938Lisa-Imai-Happy-CwNdSi.png', date: 'may 21, 2018'},
+    {name: 'kokoro', url: 'https://i.bandori.party/u/c/a/942Kokoro-Tsurumaki-Cool-2DKfGH.png', date: 'may 31, 2018'},
     {name: 'tomoe', url: 'https://i.bandori.party/u/c/a/943Tomoe-Udagawa-Cool-5YJDng.png'},
     {name: 'hina', url: 'https://i.bandori.party/u/c/a/947Hina-Hikawa-Power-xSRiCO.png'},
     {name: 'kaoru', url: 'https://i.bandori.party/u/c/a/948Kaoru-Seta-Power-Ax84ea.png'},
     {name: 'aya', url: 'https://i.bandori.party/u/c/a/952Aya-Maruyama-Happy-Vw2SXZ.png'},
     {name: 'chisato', url: 'https://i.bandori.party/u/c/a/953Chisato-Shirasagi-Happy-tc47Ck.png'},
-    {name: 'kasumi', url: 'https://i.bandori.party/u/c/a/957Kasumi-Toyama-Cool-Familiar-Route-4zTn6P.png'},
-    {name: 'hagumi', url: 'https://i.bandori.party/u/c/a/958Hagumi-Kitazawa-Cool-Our-Beginning-VqTIio.png'},
+    {name: 'kasumi', url: 'https://i.bandori.party/u/c/a/957Kasumi-Toyama-Cool-Familiar-Route-4zTn6P.png', date: 'june 30, 2018'},
+    {name: 'hagumi', url: 'https://i.bandori.party/u/c/a/958Hagumi-Kitazawa-Cool-Our-Beginning-VqTIio.png', date: 'june 30, 2018'},
     {name: 'misaki', url: 'https://i.bandori.party/u/c/a/962Misaki-Okusawa-Pure-Why-Is-It-Like-This-QDnyYP.png'},
     {name: 'kanon', url: 'https://i.bandori.party/u/c/a/963Kanon-Matsubara-Pure-Be-Brave-uo3B2O.png'},
     {name: 'ran', url: 'https://i.bandori.party/u/c/a/967Ran-Mitake-Cool-Scarlet-A6wqtZ.png'},
@@ -29,8 +29,12 @@ var cards = [
     {name: 'saaya', url: 'https://i.bandori.party/u/c/a/991Saaya-Yamabuki-Power-Sparkling-Smile-rpQrte.png'},
     {name: 'ran', url: 'https://i.bandori.party/u/c/a/995Ran-Mitake-Happy-Rtg5UC.png'},
     {name: 'moca', url: 'https://i.bandori.party/u/c/a/996Moca-Aoba-Happy-dtKPvl.png', date: '20180910'},
-    {name: 'kanon', url: 'https://i.bandori.party/u/c/a/1001Kanon-Matsubara-Power-mcwTcv.png', date: '20180920'},
-    {name: 'chisato', url: 'https://i.bandori.party/u/c/a/1000Chisato-Shirasagi-Power-5GZOcy.png', date: '20180920'}
+    {name: 'kanon', url: 'https://i.bandori.party/u/c/a/1001Kanon-Matsubara-Power-mcwTcv.png', date: 'september 20, 2018'},
+    {name: 'chisato', url: 'https://i.bandori.party/u/c/a/1000Chisato-Shirasagi-Power-5GZOcy.png', date: 'september 20, 2018'},
+    {name: 'aya', url: 'https://i.bandori.party/u/c/a/1005Aya-Maruyama-Cool-Aya-o-Lantern-KkvMov.png', date: 'september 30, 2018'},
+    {name: 'hina', url: 'https://i.bandori.party/u/c/a/1006Hina-Hikawa-Cool-Mischievous-Devil-rXv24z.png', date: 'september 30, 2018'},
+    {name: 'rimi', url: 'https://i.bandori.party/u/c/a/1015Rimi-Ushigome-Cool-Important-Foundation-fjEFao.png', date: 'september 30, 2018'},
+    {name: 'kaoru', url: 'https://i.bandori.party/u/c/a/1016Kaoru-Seta-Pure-I-Want-It-nji1Jg.png', date: 'september 30, 2018'}
 ]
 
 function lastOfGirl(n, name){
