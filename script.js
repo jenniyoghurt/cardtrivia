@@ -34,7 +34,9 @@ var cards = [
     {name: 'aya', url: 'https://i.bandori.party/u/c/a/1005Aya-Maruyama-Cool-Aya-o-Lantern-KkvMov.png', date: 'september 30, 2018'},
     {name: 'hina', url: 'https://i.bandori.party/u/c/a/1006Hina-Hikawa-Cool-Mischievous-Devil-rXv24z.png', date: 'september 30, 2018'},
     {name: 'rimi', url: 'https://i.bandori.party/u/c/a/1015Rimi-Ushigome-Cool-Important-Foundation-fjEFao.png', date: 'september 30, 2018'},
-    {name: 'kaoru', url: 'https://i.bandori.party/u/c/a/1016Kaoru-Seta-Pure-I-Want-It-nji1Jg.png', date: 'september 30, 2018'}
+    {name: 'kaoru', url: 'https://i.bandori.party/u/c/a/1016Kaoru-Seta-Pure-I-Want-It-nji1Jg.png', date: 'september 30, 2018'},
+    {name: 'kokoro', url: 'https://i.bandori.party/u/c/a/1017Kokoro-Tsurumaki-Power-whnu17.png', date: 'october 10, 2018'},
+    {name: 'misaki', url: 'https://i.bandori.party/u/c/a/1018Misaki-Okusawa-Power-ccBfVp.png', date: 'october 10, 2018'}
 ]
 
 function lastOfGirl(n, name){
