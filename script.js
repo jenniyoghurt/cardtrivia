@@ -36,7 +36,19 @@ var cards = [
     {name: 'rimi', url: 'https://i.bandori.party/u/c/a/1015Rimi-Ushigome-Cool-Important-Foundation-fjEFao.png', date: 'september 30, 2018'},
     {name: 'kaoru', url: 'https://i.bandori.party/u/c/a/1016Kaoru-Seta-Pure-I-Want-It-nji1Jg.png', date: 'september 30, 2018'},
     {name: 'kokoro', url: 'https://i.bandori.party/u/c/a/1017Kokoro-Tsurumaki-Power-whnu17.png', date: 'october 10, 2018'},
-    {name: 'misaki', url: 'https://i.bandori.party/u/c/a/1018Misaki-Okusawa-Power-ccBfVp.png', date: 'october 10, 2018'}
+    {name: 'misaki', url: 'https://i.bandori.party/u/c/a/1018Misaki-Okusawa-Power-ccBfVp.png', date: 'october 10, 2018'},
+    {name: 'arisa', url: 'https://i.bandori.party/u/c/a/1022Arisa-Ichigaya-Pure-No-More-Playing-Dumb-parvQu.png', date: 'october 20, 2018'},
+    {name: 'lisa', url: 'https://i.bandori.party/u/c/a/1023Lisa-Imai-Pure-Communication-MAX-CuUJNo.png', date: 'october 20, 2018'},
+    {name: 'maya', url: 'https://i.bandori.party/u/c/a/1027Maya-Yamato-Power-Cq3m5x.png', date: 'october 31, 2018'},
+    {name: 'rinko', url: 'https://i.bandori.party/u/c/a/1028Rinko-Shirokane-Power-FTdXat.png', date: 'october 31, 2018'},
+    {name: 'yukina', url: 'https://i.bandori.party/u/c/a/1047Yukina-Minato-Happy-lCWc13.png', date: 'november 10, 2018'},
+    {name: 'ako', url: 'https://i.bandori.party/u/c/a/1048Ako-Udagawa-Happy-QA70ee.png', date: 'november 10, 2018'},
+    {name: 'rimi', url: 'https://i.bandori.party/u/c/a/1052Rimi-Ushigome-Pure-eMnQcX.png', date: 'november 21, 2018'},
+    {name: 'saaya', url: 'https://i.bandori.party/u/c/a/1053Saaya-Yamabuki-Pure-uXfueV.png', date: 'november 21, 2018'},
+    {name: 'moca', url: 'https://i.bandori.party/u/c/a/1057Moca-Aoba-Cool-by3rYF.png', date: 'november 30, 2018'},
+    {name: 'tsugumi', url: 'https://i.bandori.party/u/c/a/1058Tsugumi-Hazawa-Cool-p4ybgx.png', date: 'november 30, 2018'},
+    {name: 'himari', url: 'https://i.bandori.party/u/c/a/1067Himari-Uehara-Happy-0oLBYj.png', date: 'december 10, 2018'},
+    {name: 'hagumi', url: 'https://i.bandori.party/u/c/a/1068Hagumi-Kitazawa-Happy-9J8tVM.png', date: 'december 10, 2018'}
 ]
 
 function lastOfGirl(n, name){
